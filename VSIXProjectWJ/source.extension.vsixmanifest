@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="WJ.2789ca6a-18fd-49bd-ad23-7047e28fcac4" Version="1.0" Language="en-US" Publisher="Zetalex" />
+        <Identity Id="WJ.2789ca6a-18fd-49bd-ad23-7047e28fcac4" Version="1.1" Language="en-US" Publisher="Zetalex" />
         <DisplayName>Windows Jobs</DisplayName>
         <Description xml:space="preserve">A project for creating Windows Services where you can create schedulable jobs</Description>
     </Metadata>
